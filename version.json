@@ -1,10 +1,10 @@
 {
-    "version":  "0.6.0",
+    "version":  "0.6.1",
     "apk_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.6.0/MonQuota-0.6.0.apk",
     "sha256":  "7c7b183106b2d0b69b2ce6fdbdf054bd4b2aed782d3b078c10acfbe3a7820727",
     "apk_min":  "0.6.0",
-    "pck_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.6.0/MonQuota-0.6.0.pck",
-    "pck_sha256":  "ec29a3df65a6f824ce014ce8be1b1cbb860b3ab649684b69e5fe62430c01f1a1",
-    "notes":  "Les prochaines mises à jour arrivent toutes seules : l\u0027appli les télécharge en douce et il suffit de la redémarrer. Plus besoin de réinstaller ✦",
+    "pck_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.6.1/MonQuota-0.6.1.pck",
+    "pck_sha256":  "5dd893b2852b4bb10b20965ee484f9a941fd41793e6958549d2fbca9c3076dfe",
+    "notes":  "Première mise à jour arrivée toute seule ✦ En coulisses : l\u0027appli est mieux rangée, et si le réseau flanche pendant une mise à jour, elle réessaie toute seule.",
     "date":  "2026-11-21"
 }
