@@ -1,7 +1,10 @@
 {
-    "version":  "0.5.0",
-    "apk_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.5.0/MonQuota-0.5.0.apk",
-    "sha256":  "bd2ea18271045339339ec4201054ad420e2c998aaf1dd77c8f6319838b565206",
-    "notes":  "Nouvel onglet Calendrier, en bas de l\u0027écran ✦ Coche verte : jour rempli, et une coche bleue en plus s\u0027il y a du quota test final. Orange : repos normal (week-end, férié, congé). Rouge : jour oublié. Touche un jour pour voir son détail et le remplir. Nouvelle carte « Prime du trimestre » : ton quota cumulé sur 3 mois (novembre → janvier, puis février → avril...) et si tu es en route pour la prime.",
+    "version":  "0.6.0",
+    "apk_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.6.0/MonQuota-0.6.0.apk",
+    "sha256":  "7c7b183106b2d0b69b2ce6fdbdf054bd4b2aed782d3b078c10acfbe3a7820727",
+    "apk_min":  "0.6.0",
+    "pck_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.6.0/MonQuota-0.6.0.pck",
+    "pck_sha256":  "ec29a3df65a6f824ce014ce8be1b1cbb860b3ab649684b69e5fe62430c01f1a1",
+    "notes":  "Les prochaines mises à jour arrivent toutes seules : l\u0027appli les télécharge en douce et il suffit de la redémarrer. Plus besoin de réinstaller ✦",
     "date":  "2026-11-21"
 }
