@@ -1,7 +1,7 @@
 {
-    "version":  "0.4.0",
-    "apk_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.4.0/MonQuota-0.4.0.apk",
-    "sha256":  "dc8ff05cf744a0ef9af340781deb6064d6bd270128a343b52d84c6498ba1a2cc",
-    "notes":  "Nouveau : le Quota test final, en bleu. Il se note à part et ne compte ni dans ton quota ni dans ta prime. Tu peux écrire un petit commentaire sur chaque jour (300 caractères). Les deux boutons apparaissent sous « Valider » une fois ton quota du jour rentré ✦",
-    "date":  "2026-11-18"
+    "version":  "0.5.0",
+    "apk_url":  "https://github.com/Osz-lab/mon-quota-mises-a-jour/releases/download/v0.5.0/MonQuota-0.5.0.apk",
+    "sha256":  "bd2ea18271045339339ec4201054ad420e2c998aaf1dd77c8f6319838b565206",
+    "notes":  "Nouvel onglet Calendrier, en bas de l\u0027écran ✦ Coche verte : jour rempli, et une coche bleue en plus s\u0027il y a du quota test final. Orange : repos normal (week-end, férié, congé). Rouge : jour oublié. Touche un jour pour voir son détail et le remplir. Nouvelle carte « Prime du trimestre » : ton quota cumulé sur 3 mois (novembre → janvier, puis février → avril...) et si tu es en route pour la prime.",
+    "date":  "2026-11-21"
 }
